@@ -1,0 +1,4 @@
+(library
+ (name SDL)
+ (public_name fungame2.sdl)
+ (libraries tsdl tsdl-ttf tsdl-mixer tsdl-image))
